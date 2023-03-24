@@ -17,4 +17,4 @@ This project used
 * Lastly, create the main function.
 
 # Example of currency conversion
-![Capture]()
+![Capture](Capture.JPG)
